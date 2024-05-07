@@ -16,7 +16,7 @@
 - Project-Follow Up: Once the project is submitted, we will each take 3-5 minutes to walk through your app. Each team will name 2 Wins and 2 Challenges.
 
 <aside>
-<img src="/icons/info-alternate_pink.svg" alt="/icons/info-alternate_pink.svg" width="40px" /> If you cannot complete the Project Follow-Up in person with Ms Richards, you can record a 1 minute Loom Demo of your project, walking through the code. You do not need to record yourself on camera but do record your voice as you share your screen.
+If you cannot complete the Project Follow-Up in person with Ms Richards, you can record a 1 minute Loom Demo of your project, walking through the code. You do not need to record yourself on camera but do record your voice as you share your screen.
 [Loom Recorder Beginners Tutorial (Still Good in 2024)](https://www.youtube.com/watch?v=tL4OWGVE6o8&ab_channel=JoshHall)
 [Download the Loom Desktop App](https://www.loom.com/download)
 </aside>
